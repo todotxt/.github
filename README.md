@@ -1,2 +1,1 @@
-# .github
-Common community health files for the todotxt organization
+The community health files in this repo are valid for all projects in the todotxt organization (unless overwritten by a repository).
